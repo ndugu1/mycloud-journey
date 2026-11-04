@@ -1,0 +1,3 @@
+after creating a file on github, you commit. Commit in this context means save changes.
+
+How to clone your remote github repo on your computer (local github repo):
