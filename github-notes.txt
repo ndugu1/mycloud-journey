@@ -1,3 +1,4 @@
-after creating a file on github, you commit. Commit in this context means save changes.
+After creating a file on GitHub, you commit. Commit in this context means saving changes.
 
-How to clone your remote github repo on your computer (local github repo):
+How to clone your remote GitHub repo on your computer (local github repo):
+cd to your desktop, then go back to GitHub and click on code, then HTTPS, and copy the link and go back to gitbash or terminal where you installed git and type: git clone link (the link you copied) and click enter
