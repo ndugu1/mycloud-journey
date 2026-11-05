@@ -1,4 +1,4 @@
 After creating a file on GitHub, you commit. Commit in this context means saving changes.
 
 How to clone your remote GitHub repo on your computer (local github repo):
-cd to your desktop, then go back to GitHub and click on code, then HTTPS, and copy the link and go back to gitbash or terminal where you installed git and type: git clone link (the link you copied) and click enter
+cd to your desktop, then go back to GitHub and click on code, then HTTPS, and copy the link and go back to gitbash or terminal where you installed git and type: git clone link (the link you copied) and click enter. After cloning, I tried to check git status but I didnt work beacaus I didnt cd into the folder/directory, after cding into folder it works, I was able to check the git status. exercise I did: git clone https://github.com/ndugu1/Cloud-Devops-projects.git
